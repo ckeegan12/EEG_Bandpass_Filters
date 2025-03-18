@@ -15,4 +15,7 @@ I also use the fourier transform of the filtered signal and unfiltered signal to
 </p>
 
 # FIR Filter Design And Reasoning
-I created a finite impulse response (FIR) chebyshev filter 
+I created a 150-order finite impulse response (FIR) bandpass filter using a Chebyshev window. I also made this to go along with the traditional
+approach to filtering EEG signals. I ended up only using the IIR filter in later spike sorting. It has the same parameters as the IIR filter (Samplying frequency, cutoff frequency, ect)
+<p align="center">Chebyshev window:</p> <p align="center">  </p>
+<p align="center">  <img width="258" alt="image" src="https://github.com/user-attachments/assets/397c2b1b-6c2a-41e3-952f-c5ed931edfcd" /></p>
