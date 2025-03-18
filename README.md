@@ -13,3 +13,6 @@ I also use the fourier transform of the filtered signal and unfiltered signal to
 <img width="299" alt="image" src="https://github.com/user-attachments/assets/a0a681d3-d3f1-4a06-b650-2ee3b8b366d1" />
 <img width="296" alt="image" src="https://github.com/user-attachments/assets/99c90e35-1aef-446c-aec6-443b5f026771" />
 </p>
+
+# FIR Filter Design And Reasoning
+I created a finite impulse response (FIR) chebyshev filter 
